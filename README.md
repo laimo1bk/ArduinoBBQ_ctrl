@@ -7,6 +7,7 @@ User will interface via LCD screen and navigate menu via button inputs.
 
 Core development
 >> Grill temp input range triggers fan control on/off 
+
 >> Fan to have hi low range depending on temp delta over set point
 
 Future  development
