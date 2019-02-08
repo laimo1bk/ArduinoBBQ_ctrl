@@ -11,4 +11,14 @@ Core development
 
 Future  development
 Wifi communication with mobile device for history and alert funtions. 
- 
+new
+
+
+
+
+
+
+
+-
+-
+//
